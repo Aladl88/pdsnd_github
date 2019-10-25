@@ -1,16 +1,14 @@
-##Date created
-25-10-2019
+### Date created
+Include the date you created this project and README file.
 
-##Project Title
-pdsnd_github
+### Project Title
+Replace the Project Title
 
-##Description
-The function of the project is to post the python project to Github.
+### Description
+Describe what your project is about and what it does
 
-##Files used
-bikeshare_2.py
-.gitignore
-README.md
+### Files used
+Include the files used
 
-##Credits
+### Credits
 - https://codebeautify.org/python-formatter-beautifier
